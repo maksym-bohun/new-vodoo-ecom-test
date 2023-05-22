@@ -1156,6 +1156,11 @@ video {
   position: relative;
 }
 
+.hover\:bg-orange-500:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 115 22 / var(--tw-bg-opacity));
+}
+
 @media (min-width: 768px) {
   .md\:-mt-10 {
     margin-top: -2.5rem;
